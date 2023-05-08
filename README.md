@@ -35,12 +35,12 @@
 # Details
 
 1. Create a Dart Server called `Backend-Lab-1`.
-2. Create 3 endpoints, each endpoint return a different message.
+2. Create 3 endpoints, each endpoint returns a different message.
 
 
 # Deadline
 
-Submit by 8/5/2023 10:00 AM
+Submit by 8/5/2023 3:00 PM
 
 # Note
 Make sure that the name of the PR is your `firstname lastname`
